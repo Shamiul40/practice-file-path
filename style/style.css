@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    background-color: rgb(19, 224, 224);
+    height: 200px;
+    width: 500px;
+    margin: 0 auto;
+    background-image: url(../image/quote-bg.png);
+}
